@@ -1,7 +1,8 @@
 豆包
 DeepSeek
-
+GitHub
 阿里
+ai应用
 
 
 
@@ -26,7 +27,6 @@ DeepSeek
 
 
 
-谷歌
 google
 gemini
 deepmind
@@ -50,7 +50,7 @@ ai
 
 
 
-科技
 
-新质生产力
+
+
 
