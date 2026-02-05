@@ -1,32 +1,31 @@
 豆包
 DeepSeek
-梁文锋
+
 阿里
-宇树
-王兴兴
 
-智元
-灵犀
 
-影之刃零
-梁其伟
 
-字节
-bytedance
-张一鸣
 
-特斯拉
-马斯克
 
-微软
-Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
 
-AMD
-千问
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 谷歌
 google
 gemini
@@ -34,22 +33,22 @@ deepmind
 kimi
 chatgpt
 openai
-sora
+
 
 claude
 Anthropic
 ai
-!gai
+
 人工智能
 
-自动驾驶
+
 
 机器人
 
 国产大模型
 
-芯片
-光刻机
+
+
 
 科技
 
